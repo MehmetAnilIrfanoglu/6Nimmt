@@ -10,7 +10,7 @@ The images you see below are shared in order to get a general idea about the int
 ### 
 <p align="center">
   <img src="images/main-screen.png" width="400" title="ss1">
-  <img src="images/gameplay.png" width="400" title="ss1">
+  <img src="images/gameplay.PNG" width="400" title="ss1">
 </p>
 
 ### Win Screens
